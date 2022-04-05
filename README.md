@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tutitoos_00)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/397453373479190538)
 
-## Skills
+## Habilidades
 [![wakatime](https://wakatime.com/badge/user/f6a5cd2f-e04f-43e7-b1ba-dbcab0d06e18.svg)](https://wakatime.com/@f6a5cd2f-e04f-43e7-b1ba-dbcab0d06e18)
 
 ### IDE
@@ -21,11 +21,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-(HIGH)
+(ALTO)
 
 ![Redis](https://img.shields.io/badge/Redis-CC0000?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=white)
-(MEDIUM)
+(MEDIO)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -34,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-(LEARNING)
+(APRENDIENDO)
 
 ### Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
