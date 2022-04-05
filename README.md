@@ -21,12 +21,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-(ALTO)
-
 ![Redis](https://img.shields.io/badge/Redis-CC0000?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=white)
-(MEDIO)
 
+(APRENDIENDO)
+<br />
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
@@ -34,7 +33,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-(APRENDIENDO)
 
 ### Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
