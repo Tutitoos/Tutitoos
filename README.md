@@ -12,7 +12,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ED8B00?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-FFD43B?logo=PyCharm&logoColor=white)
 
-### Lenguajes y Librerías
+### Lenguajes, Librerías y Tecnologías
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
