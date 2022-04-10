@@ -18,27 +18,26 @@
 
 ### Librerías
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Tecnologías
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-CC0000?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=white)
 
-
 (APRENDIENDO)
 <br />
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
