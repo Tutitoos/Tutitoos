@@ -12,17 +12,23 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ED8B00?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-FFD43B?logo=PyCharm&logoColor=white)
 
-### Lenguajes, Librerías y Tecnologías
-
+### Lenguajes
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+
+### Librerías
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+
+### Tecnologías
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-CC0000?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=white)
+
 
 (APRENDIENDO)
 <br />
