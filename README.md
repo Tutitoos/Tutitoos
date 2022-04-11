@@ -51,4 +51,4 @@
 
 [![TutitoosHub](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/tutitoos)
 
-[![wakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=f6a5cd2f-e04f-43e7-b1ba-dbcab0d06e18)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=f6a5cd2f-e04f-43e7-b1ba-dbcab0d06e18)](https://github.com/tutitoos/github-readme-stats)
