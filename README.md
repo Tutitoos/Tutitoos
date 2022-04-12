@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### Frameworks
+### Frameworks y Librerías 
 ![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
