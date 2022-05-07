@@ -49,10 +49,4 @@
 
 ---
 
-[![TutitoosHub](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/tutitoos)
-
-[![wakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Top%20Lenguajes&username=f6a5cd2f-e04f-43e7-b1ba-dbcab0d06e18)](https://github.com/tutitoos/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![TutitoosHub](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/tutitoos
