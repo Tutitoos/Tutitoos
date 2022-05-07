@@ -49,4 +49,4 @@
 
 ---
 
-[![TutitoosHub](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/tutitoos
+[![TutitoosHub](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)]
