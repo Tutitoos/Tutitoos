@@ -13,7 +13,6 @@
 ### Lenguajes
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Frameworks y Librerías 
@@ -35,8 +34,10 @@
 
 ### Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
-![SONARLINT](https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=white)
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
+
+### Controlador de Versiones
+![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
