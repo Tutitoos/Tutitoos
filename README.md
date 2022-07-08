@@ -8,7 +8,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-2D76C0?logo=WebStorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FC7F1D?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-FFD43B?logo=PyCharm&logoColor=white)
 
 ### Lenguajes
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
@@ -24,6 +23,8 @@
 ![Nextjs](https://img.shields.io/badge/next.js-292929?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?logo=react&logoColor=FF3E00)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Bases de Datos
