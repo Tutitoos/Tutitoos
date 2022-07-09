@@ -49,16 +49,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)
 
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```text
-TypeScript       11 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   37.89 %
-JavaScript       10 hrs 23 mins  ████████▓░░░░░░░░░░░░░░░░   34.15 %
-Svelte           4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-JSON             3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Bash             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other            11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-```
-
-<!--END_SECTION:waka-->
