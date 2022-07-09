@@ -48,3 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutitoos&count_private=true&layout=compact&theme=dark&bg_color=1a1c1f&border_radius=10&hide_border=true&custom_title=Lenguajes%20m%C3%A1s%20utilizados)
 
 ![](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)
+
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
