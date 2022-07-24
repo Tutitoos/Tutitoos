@@ -25,8 +25,8 @@
 ![Nextjs](https://img.shields.io/badge/next.js-292929?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?logo=react&logoColor=FF3E00)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=react&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&logoColor=FF3E00)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Bases de Datos
