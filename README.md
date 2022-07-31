@@ -36,6 +36,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=white)
 
 ### Linters
+![Sonarlint](https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
 
