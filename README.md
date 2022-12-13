@@ -11,31 +11,30 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-2D76C0?logo=WebStorm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FC7F1D?logo=intellij-idea&logoColor=white)
 
 ### Lenguajes
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 
 ### Frameworks y Librerías
 
-![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/YARN-2C8EBB?logo=yarn&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-464647?logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-292929?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&logoColor=FF3E00)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
+
+
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white)
 
 ### Bases de Datos
 
