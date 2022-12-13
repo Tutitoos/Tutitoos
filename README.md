@@ -26,7 +26,7 @@
 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
-![TS-NODE](https://img.shields.io/badge/TS--NODE-3178C6?logo=ts-node&logoColor=white)
+![TS Node](https://img.shields.io/badge/TS_Node-3178C6?logo=ts-node&logoColor=white)
 
 ![Express](https://img.shields.io/badge/Express-464647?logo=express&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
@@ -35,9 +35,9 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&logoColor=FF3E00)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
 
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
