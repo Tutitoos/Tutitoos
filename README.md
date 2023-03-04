@@ -1,6 +1,6 @@
 ## Acerca de
 
-👋 Soy Guillem, un Full Stack Developer apasionado de la informática desde 2010. Desde entonces, he estado constantemente mejorando mis habilidades y trabajando en proyectos interesantes y desafiantes. En 2010 empecé a trabajar haciendo mantenimiento de equipos informáticos. Desde 2015  eh estado aprendiendo para ser un buen programador, haciendo pequeños proyectos y estudiando de forma autónoma. En 2020, junto con un equipo de 4 personas, empezamos un proyecto llamado Kenabot, un bot de música para Discord. En resumen, tengo años de experiencia en el desarrollo de software y una gran pasión por la informática. Siempre estoy dispuesto a seguir aprendiendo y creciendo en mi carrera.
+👋 Soy Guillem, un Full Stack Developer apasionado de la informática desde 2010. Desde entonces, he estado constantemente mejorando mis habilidades y trabajando en proyectos interesantes y desafiantes de forma autónoma. En 2010 empecé a trabajar haciendo mantenimiento de equipos informáticos. En 2020, junto con un equipo de 4 personas, empezamos un proyecto llamado Kenabot, un bot de música para Discord. En resumen, tengo años de experiencia en el desarrollo de software y una gran pasión por la informática. Siempre estoy dispuesto a seguir aprendiendo y creciendo en mi carrera.
 
 ## 📨 Redes Sociales
 
