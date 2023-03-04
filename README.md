@@ -1,6 +1,6 @@
 ## Acerca de
 
-👋 Soy Guillem, un full stack developer apasionado de la informática desde 2010. Desde entonces, he estado constantemente mejorando mis habilidades y trabajando en proyectos interesantes y desafiantes. Empecé a trabajar con ordenadores como hobby en 2010, haciendo mantenimiento de equipos informáticos. En 2015, comencé a programar con HTML, CSS y jQuery y creé pequeños proyectos web. Después, aprendí PHP con Laravel y formé parte de un equipo que desarrolló un e-commerce llamado MarShop. Desafortunadamente, cerramos el proyecto en 2017. En 2020, junto con un equipo de 4 personas, empezamos un proyecto llamado Kenabot, un bot de música para Discord. Actualmente, estoy en progreso de un proyecto llamado TutoFilms, un sitio web de películas. En resumen, tengo años de experiencia en el desarrollo de software y una gran pasión por la informática. Siempre estoy dispuesto a seguir aprendiendo y creciendo en mi carrera.
+👋 Soy Guillem, un Full Stack Developer apasionado de la informática desde 2010. Desde entonces, he estado constantemente mejorando mis habilidades y trabajando en proyectos interesantes y desafiantes. En 2010 empecé a trabajar haciendo mantenimiento de equipos informáticos. Desde 2015  eh estado aprendiendo para ser un buen programador, haciendo pequeños proyectos y estudiando de forma autónoma. En 2020, junto con un equipo de 4 personas, empezamos un proyecto llamado Kenabot, un bot de música para Discord. En resumen, tengo años de experiencia en el desarrollo de software y una gran pasión por la informática. Siempre estoy dispuesto a seguir aprendiendo y creciendo en mi carrera.
 
 ## 📨 Redes Sociales
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologías
 
-HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Svelte, SvelteKit, Redux, Express.js, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, Angular, React, Next.js, Svelte, SvelteKit, Redux, Express.js, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
 
 ## ⭐ Metodologías, Principios y Técnicas
 
