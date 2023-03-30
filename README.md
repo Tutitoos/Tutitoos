@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologías
 
-HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, Angular, React, Next.js, Svelte, SvelteKit, Redux, Express.js, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Preact, Svelte, SvelteKit, AngularJS, Angular, Redux, Redux Toolkit, Express.js, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
 
 ## ⭐ Metodologías, Principios y Técnicas
 
