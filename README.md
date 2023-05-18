@@ -1,6 +1,10 @@
 ## Acerca de
 
-👋 Soy Guillem, un apasionado desarrollador Full Stack con una sólida trayectoria en informática desde 2010. A lo largo de los años, he estado constantemente mejorando mis habilidades de forma autónoma, trabajando en proyectos interesantes y desafiantes. En 2021, junto con un equipo de 4 personas, lanzamos Kenabot, el mayor bot de música de Discord en la comunidad hispanohablante con 24M de usuarios. En resumen, tengo años de experiencia en el desarrollo de software y una gran pasión por la informática. Siempre estoy dispuesto a seguir aprendiendo y creciendo en mi carrera.
+👋 Soy Guillem, un apasionado desarrollador Full Stack con una sólida trayectoria en informática desde 2010. A lo largo de los años, he estado constantemente mejorando mis habilidades de forma autónoma, trabajando en proyectos interesantes y desafiantes. En 2021, junto con un equipo de 4 personas, lanzamos Kenabot, el mayor bot de música de Discord en la comunidad hispanohablante con 24M de usuarios.
+
+Además de mi dedicación al desarrollo de software, tengo diversas aficiones que me enriquecen como persona. Soy un cinéfilo apasionado, disfruto explorando diferentes géneros y estilos cinematográficos. También soy amante de la gastronomía, tanto de probar nuevos platos y sabores en restaurantes como de experimentar en mi propia cocina. Sumergirme en el mundo de los videojuegos es otra de mis pasiones, donde disfruto explorando nuevos mundos y superando desafíos. La música ocupa un lugar especial en mi vida, me encanta disfrutar de diversos géneros y artistas, siempre en busca de nuevas melodías. Y por último, soy un entusiasta del aprendizaje constante, siempre buscando adquirir nuevos conocimientos y habilidades.
+
+En resumen, combino mi experiencia en el desarrollo de software con mis diversas aficiones, lo cual me permite crecer como profesional y disfrutar de un enfoque integral en mi vida personal.
 
 ## 📨 Redes Sociales
 
