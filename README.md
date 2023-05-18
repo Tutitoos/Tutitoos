@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologías
 
-HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Preact, Svelte, SvelteKit, AngularJS, Angular, Redux, Redux Toolkit, Express.js, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Svelte, SvelteKit, Angular, AngularJS, Redux, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
 
 ## ⭐ Metodologías, Principios y Técnicas
 
@@ -24,6 +24,6 @@ Notion, Trello, Git, GitHub, Figma, Postman, Insomnia, SonarCloud
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutitoos&count_private=true&layout=compact&theme=dark&bg_color=1a1c1f&border_radius=10&hide_border=true&custom_title=Lenguajes%20m%C3%A1s%20utilizados)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20utilizados)
 
 ![](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)
