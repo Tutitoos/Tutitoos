@@ -1,0 +1,751 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Guillem",
+      "surnames": "Travé Font",
+      "title": "Full Stack Developer",
+      "description": "👋 Soy Guillem, un apasionado desarrollador Full Stack con una sólida trayectoria en informática desde 2010. A lo largo de los años, he estado constantemente mejorando mis habilidades de forma autónoma, trabajando en proyectos interesantes y desafiantes. En 2021, junto con un equipo de 4 personas, lanzamos Kenabot, el mayor bot de música de Discord en la comunidad hispanohablante con 24M de usuarios.\n\nAdemás de mi dedicación al desarrollo de software, tengo diversas aficiones que me enriquecen como persona. Soy un cinéfilo apasionado, disfruto explorando diferentes géneros y estilos cinematográficos. También soy amante de la gastronomía, tanto de probar nuevos platos y sabores en restaurantes como de experimentar en mi propia cocina. Sumergirme en el mundo de los videojuegos es otra de mis pasiones, donde disfruto explorando nuevos mundos y superando desafíos. La música ocupa un lugar especial en mi vida, me encanta disfrutar de diversos géneros y artistas, siempre en busca de nuevas melodías. Y por último, soy un entusiasta del aprendizaje constante, siempre buscando adquirir nuevos conocimientos y habilidades.\n\nEn resumen, combino mi experiencia en el desarrollo de software con mis diversas aficiones, lo cual me permite crecer como profesional y disfrutar de un enfoque integral en mi vida personal.\n\n📨 Redes Sociales\n\nTel: +34 645 32 54 87\n\nEmail: tutitoosjob@gmail.com\n\n🚀 Tecnologías\n\nHTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Svelte, SvelteKit, Angular, AngularJS, Redux, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets\n\n⭐ Metodologías, Principios y Técnicas\n\nAgile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios\n\n⚙️ Herramientas\n\nNotion, Trello, Git, GitHub, Figma, Postman, Insomnia, SonarCloud",
+      "avatar": {
+        "alt": "IMG-20221215-WA0007.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/27/5ed5861e-65e9-432e-96da-374b9cb8a2e8_img-20221215-wa0007.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Tutitoos"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/guillem-trave-font/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "4 Mans Arquitectes",
+          "image": {
+            "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/3cac3a1b-9e8b-4283-84d8-41b615b7c5f5_logo.svg"
+          },
+          "URL": "https://4mansarquitectes.com"
+        },
+        "roles": [
+          {
+            "name": "Técnico informático - Programador",
+            "startDate": "2018-03-01",
+            "finishDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "Como parte del equipo de 4 Mans Arquitectes, he desempeñado un papel fundamental en la gestión de la infraestructura informática y el mantenimiento de los equipos. Además, he sido responsable de implementar planos de edificios y plantas en formato 2D utilizando AutoCAD.\n\nTambién he contribuido al diseño y desarrollo de la página web, asegurándome de que sea atractiva y funcional para los usuarios. Mi enfoque ha sido crear una experiencia de usuario intuitiva y optimizada, resaltando los proyectos arquitectónicos de la empresa.\n\nEn resumen, como miembro del equipo de 4 Mans Arquitectes, he sido responsable de la gestión de la infraestructura, el mantenimiento de equipos, la implementación de planos en AutoCAD y el diseño de la página web."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Autocad",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Kenabot (Propietario - Programador)",
+          "description": "KenaBot se distingue por su infraestructura sólida y su enfoque innovador en la comunidad hispanohablante de Discord. Un equipo altamente capacitado sigue metodologías ágiles, como Scrum, para impulsar el desarrollo y la mejora continua del bot.\nCon una gestión eficiente y orientada a resultados, KenaBot brinda un servicio de alta calidad a más de 24 millones de usuarios en servidores de Discord en español. El equipo trabaja en colaboración, utilizando herramientas modernas y prácticas, para facilitar la entrega de nuevas funcionalidades y mejoras.\nLa experiencia del usuario es una prioridad clave para KenaBot. Se esfuerzan por crear una interfaz intuitiva y atractiva, centrándose en brindar una experiencia satisfactoria. KenaBot se esfuerza por superar las expectativas de sus usuarios, ofreciendo una atención cuidadosa a los detalles y garantizando una experiencia positiva.\nEn resumen, KenaBot es un servicio confiable y de alta calidad, respaldado por una sólida infraestructura y un equipo comprometido. Está diseñado para proporcionar una experiencia de usuario excepcional en los servidores de Discord en español.\n\nComo colaborador de KenaBot, he desempeñado un papel fundamental en la gestión del equipo, la infraestructura y el desarrollo de la página web. Usando tecnologías avanzadas como Next.js, Redux y Styled Components, he trabajado en la implementación de características y en la mejora de la experiencia de usuario.\nAdemás, he aportado mi experiencia en el desarrollo del bot de KenaBot, colaborando en la implementación de funcionalidades y en la optimización del rendimiento. He trabajado en la integración de API, en la gestión de bases de datos y en la creación de flujos de trabajo eficientes.\nMi enfoque se ha centrado en garantizar la escalabilidad, seguridad y rendimiento del sistema. He llevado a cabo tareas de configuración y optimización de servidores, asegurándome de que la infraestructura sea robusta y altamente disponible.",
+          "URL": "https://www.kenabot.xyz",
+          "image": {
+            "alt": "kena1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/ead85dae-698d-4846-85ad-2c80d93ca0ac_kena1.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Notion",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Deno",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Preact",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo Web Full-Stack",
+        "startDate": "2022-09-01",
+        "finishDate": "2022-12-01",
+        "institution": {
+          "name": "ISDI Coders",
+          "description": "Durante tres meses, tuve la oportunidad de sumergirme en un bootcamp de desarrollo que cambió mi vida. Fue una experiencia emocionante, llena de aprendizaje y diversión. Conocí a personas increíbles y compartimos momentos inolvidables.\n\nExploré tecnologías como HTML5, CSS3, SASS, Styled-Componentes, Node.js, React, Redux y muchas más. Cada línea de código que escribía era un paso hacia el logro de mis sueños. Sentía una mezcla de emoción y satisfacción cada vez que veía una interfaz cobrar vida, o cuando construí servidores rápidos y escalables.\n\nNo solo aprendí a programar, sino que también descubrí la importancia de las metodologías ágiles como Agile, Scrum y SOLID. Estos enfoques me enseñaron el valor del trabajo en equipo, la colaboración y la entrega continua de valor.\n\nY no puedo olvidar las herramientas que me acompañaron en este viaje: Git, GitHub, Figma, Postman y muchas otras. Cada una de ellas me ayudó a gestionar el desarrollo de mis proyectos y a colaborar con otros desarrolladores.\n\nPero lo más valioso de esta experiencia fueron las personas que conocí. Compartimos el mismo amor por la programación y el deseo de superarnos cada día. Juntos, enfrentamos desafíos y celebramos nuestros logros. Fue inspirador formar parte de una comunidad de personas apasionadas y dispuestas a crecer juntas.\n\nEn resumen, el bootcamp fue más que una experiencia de aprendizaje. Fue un viaje de autodescubrimiento, de superar miedos y de creer en mis habilidades. Estoy agradecido por cada momento vivido y emocionado por lo que el futuro me depara como desarrollador. ¡Este es solo el comienzo de un camino lleno de posibilidades y emociones!\n\n🚀 Tecnologías\n\nHTML5, CSS3, SASS, SCSS, Styled-Componentes, Node.js, React, Redux, Redux Toolkit, Express.js, JavaScript, TypeScript, JWT, MongoDB, Mongoose, Supabase, Testing, Library, Jest, Cypress, SuperTest\n\n⭐ Metodologías, Principios y Técnicas\n\nAgile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, ES6\n\n⚙️ Herramientas\n\nNotion, Trello, Git, GitHub, GitHub Actions, Figma, Postman, SonarCloud, SonarQube, Visual Studio Code",
+          "URL": "https://isdicoders.com",
+          "image": {
+            "alt": "1675358074366.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/1d6552d6-af21-426a-897e-8d621f43465c_1675358074366.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Cypress",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Github Actions",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Notion",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "SonarQube",
+            "type": "technology"
+          },
+          {
+            "name": "StyledComponents",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/guillem-trave-font/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Jest",
+        "type": "technology"
+      }
+    ]
+  }
+}

@@ -1,33 +1,81 @@
-## Acerca de
+<img src="/assets/cv_icon.png" align="right" width="128px" />
 
-👋 Soy Guillem, un apasionado desarrollador Full Stack con una sólida trayectoria en informática desde 2010. A lo largo de los años, he estado constantemente mejorando mis habilidades de forma autónoma, trabajando en proyectos interesantes y desafiantes. En 2021, junto con un equipo de 4 personas, lanzamos Kenabot, el mayor bot de música de Discord en la comunidad hispanohablante con 24M de usuarios.
+# Guillem Travé Font's CV
 
-Además de mi dedicación al desarrollo de software, tengo diversas aficiones que me enriquecen como persona. Soy un cinéfilo apasionado, disfruto explorando diferentes géneros y estilos cinematográficos. También soy amante de la gastronomía, tanto de probar nuevos platos y sabores en restaurantes como de experimentar en mi propia cocina. Sumergirme en el mundo de los videojuegos es otra de mis pasiones, donde disfruto explorando nuevos mundos y superando desafíos. La música ocupa un lugar especial en mi vida, me encanta disfrutar de diversos géneros y artistas, siempre en busca de nuevas melodías. Y por último, soy un entusiasta del aprendizaje constante, siempre buscando adquirir nuevos conocimientos y habilidades.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/guillem-trave-font).
+<br/>
+<br/>
 
-En resumen, combino mi experiencia en el desarrollo de software con mis diversas aficiones, lo cual me permite crecer como profesional y disfrutar de un enfoque integral en mi vida personal.
+<div align='center'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-05-23 11:36 UTC&color=brightgreen&style=for-the-badge'>
+  <a href='https://github.com/getmanfred/mac'>
+    <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.3&color=brightgreen&style=for-the-badge'>
+  </a>
+  <a href='#%EF%B8%8F-license'>
+    <img src='https://img.shields.io/badge/GDPR%20Compliant-40479B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAThQTFRF////QUebQUebQUebQUebQkibQ0maREmaRUqaRUuZRkuZR0yZSE2YSU6YSk6YTFCXTlKWVFeUVVeUVliUV1mTV1mUWFqTWVqTW1ySXF2SXV6RXl+RYGCQYGCRYWGQamiNbWuMb2yLcG2LcW6Lc2+KdXGJdnKJeHSIeXSIe3aHfHeHfXeHfXiGfnmGf3mGg3yFg32Eh4CDiICDioKCjoaAj4aAkYh/lYt+npJ7oJR7ppl4ppl5qZx3q513rp92r6B1sKF1sqN0s6N0tKR0tqZzt6Zzuahyuqlyvatxv61wwK5vw7FuxbJuxrNty7dszLdsz7pr0Ltq1L5p2sNm2sNn3MVm3cZl4Mhk4Mhl48pk5cxj5sxj6M5i6tBh7NFh7tNg8dZf89de9dle9tpd+t1c+95b/N9b/+FaZsCVrgAAAAR0Uk5TAKH3+IOyXJkAAAGHSURBVFjD7dbZUsIwGAVgwFPbWgUEFQQXFgFRWcQNFVRAqLsimwsqspj3fwPvEMfWJnR0BoZz90+bL03apDEYRhllOGI0jemIyWiAzgwAYNEJOC76BjYA4PDlo7TUrViAhdib3w7wdbILwO5/iy2wAcEGqTgBcyawB8BZIY0g4xDKtXRPla6VGYfA+ThvT+nlfBw9ILpUVJdIBYgRWVLqjpPkiEgDyIQ8TisAs0+EyDQA3+qEFEew3mnxNIAt7g4rAmvuuG0QVyM7EIr/cnteE+CPSg/HUyrNw6ckH9V6Ag8hq2r9S7ekOKkFrFydRVVHcJ280ZwDARBUAeHntb95jWqTOEUJLKdUgNQyFZCrN+9sCs3nis16jgYwt4jyHhwjLTMN4MhubSsCO1tZxz8uJiHzrcwIjEDivH3i+fq+T9rnCTbAWiWFcQDiJgCMF0jVyvhfKB3IAIL7z7EZAPJBiWOcAwkSgMA7ubR0qz52JOH1PqlrS5uY5xYH/oykCeg+aI4yynDkEwtqUWMkn99xAAAAAElFTkSuQmCC'>
+  </a>
+</div>
+<br/>
+<br/>
 
-## 📨 Redes Sociales
+- [Folder Structure](#-folder-structure)
+- [How can you sync your Manfred profile with your own repo](#-how-can-you-sync-your-manfred-profile-with-your-own-repo)
+- [How can you update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-can-you-update-your-cv-in-manfred)
+- [How can you update your CV in GitHub](#octocat-how-can-you-update-your-cv-in-github)
+- [Contact and Troubleshooting](#-contact-and-troubleshooting)
+- [License](#%EF%B8%8F-license)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tutitoosjob@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillem-trave-font)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tutitoos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tutitoos_00)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/397453373479190538)
+## 📁 Folder Structure
 
-## 🚀 Tecnologías
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
 
-HTML5, CSS3, SASS, SCSS, Styled-Components, Tailwind, PostCSS, Node.js, Deno, React, Preact, Next.js, React Native, Svelte, SvelteKit, Angular2+, AngularJS, Angular Universal, Redux, Redux Toolkit, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, Karma, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+    .
+    │
+    ├── CV
+    │    ├── MAC[_instance1][_language1].json
+    │    ├── ...
+    │    └── MAC[_instanceN][_languageN].json
+    │
+    ├── assets
+    │
+    └── ...
 
-## ⭐ Metodologías, Principios y Técnicas
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
+- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
 
-Agile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios, ES6
+## 🔗 How can you sync your Manfred profile with your own repo
 
-## ⚙️ Herramientas
+1. First, you have to [create an empty repository](https://github.com/new) (public or private) in your GitHub Account.
+2. If you have a profile at Manfred ([getmanfred.com](https://www.getmanfred.com/)), you can configure the synchronization within `Settings/Data Management`.
 
-Notion, Trello, Git, GitHub, GitHub Actions, Figma, Postman, Insomnia, SonarCloud, SonarQube, Docker, Visual Studio, Visual Studio Code, JetBrains
+<img alt="getmanfred.com" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_sync.png?raw=true" width="600">
 
----
+3. You will be asked to select one repository to install the [Manfred GitHub Connector App](https://github.com/apps/manfred-github-connector). Just follow the instructions.
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20utilizados)
+<img alt="https://github.com/apps/manfred-github-connector" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_connector.png?raw=true" width="600">
 
-![](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)
+4. **You are done!** So easy, so powerful.
+
+## Ⓜ️ How can you update your CV in Manfred
+
+Just navigate to [your profile](https://getmanfred.com/profile) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the latest updates.
+
+<img alt="Magic" src="https://media4.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif?cid=ecf05e471avdapgosxv5t0j0kovk1rr4vq59nlnapfuebgph&rid=giphy.gif&ct=g">
+
+## :octocat: How can you update your CV in GitHub
+
+Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes. [Your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
+
+## 🪠 Contact and Troubleshooting
+
+> :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
+
+For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefore, **your data won't be synchronized and we will send you an email with detailed info on the error**.
+
+You can find the full MAC definition available [here](https://github.com/getmanfred/mac/blob/master/schema/schema.json). If you have any question, please, don't hesitate to reach us at [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
+
+## ⚖️ License
+
+The CVs included in this repository contain my personal and professional data, and they can't be automatically processed without my explicit permission according to the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation).
+
+The [MAC format](https://github.com/getmanfred/mac) is free and open-source software licensed and distributed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0 International).
