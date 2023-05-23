@@ -16,15 +16,15 @@ En resumen, combino mi experiencia en el desarrollo de software con mis diversas
 
 ## 🚀 Tecnologías
 
-HTML5, CSS3, SASS, Styled-Components, Tailwind, Node.js, Deno, React, Next.js, Svelte, SvelteKit, Angular, AngularJS, Redux, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+HTML5, CSS3, SASS, SCSS, Styled-Components, Tailwind, PostCSS, Node.js, Deno, React, Preact, Next.js, React Native, Svelte, SvelteKit, Angular2+, AngularJS, Angular Universal, Redux, Redux Toolkit, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, Karma, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
 
 ## ⭐ Metodologías, Principios y Técnicas
 
-Agile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios
+Agile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios, ES6
 
 ## ⚙️ Herramientas
 
-Notion, Trello, Git, GitHub, Figma, Postman, Insomnia, SonarCloud
+Notion, Trello, Git, GitHub, GitHub Actions, Figma, Postman, Insomnia, SonarCloud, SonarQube, Docker, Visual Studio, Visual Studio Code, JetBrains
 
 ---
 
