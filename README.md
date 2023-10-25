@@ -1,10 +1,12 @@
 ## Acerca de
 
-👋 Soy Guillem, un apasionado desarrollador Full Stack con una sólida trayectoria en informática desde 2010. A lo largo de los años, he estado constantemente mejorando mis habilidades de forma autónoma, trabajando en proyectos interesantes y desafiantes. En 2021, junto con un equipo de 4 personas, lanzamos Kenabot, el mayor bot de música de Discord en la comunidad hispanohablante con 24M de usuarios.
+👋 Mi nombre es Guillem, un apasionado desarrollador Full Stack que ha estado inmerso en el mundo de la informática desde 2010.
 
-Además de mi dedicación al desarrollo de software, tengo diversas aficiones que me enriquecen como persona. Soy un cinéfilo apasionado, disfruto explorando diferentes géneros y estilos cinematográficos. También soy amante de la gastronomía, tanto de probar nuevos platos y sabores en restaurantes como de experimentar en mi propia cocina. Sumergirme en el mundo de los videojuegos es otra de mis pasiones, donde disfruto explorando nuevos mundos y superando desafíos. La música ocupa un lugar especial en mi vida, me encanta disfrutar de diversos géneros y artistas, siempre en busca de nuevas melodías. Y por último, soy un entusiasta del aprendizaje constante, siempre buscando adquirir nuevos conocimientos y habilidades.
+A lo largo de mi carrera, he tenido la oportunidad de trabajar con una diversidad de tecnologías y plataformas. Entre 2019 y 2020, completé un curso de Auxiliar de Sistemas Microinformáticos, lo que me permitió iniciar mi propio negocio centrado en la reparación de ordenadores y dispositivos móviles.
 
-En resumen, combino mi experiencia en el desarrollo de software con mis diversas aficiones, lo cual me permite crecer como profesional y disfrutar de un enfoque integral en mi vida personal.
+Desde 2021, he estado trabajando como freelancer, abordando una amplia gama de proyectos que abarcan desde el desarrollo de sitios web, aplicaciones móviles, API Rest y Microservicios y más. También he liderado algunos equipos.
+
+Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido hasta convertirse en el bot de música más grande en la comunidad hispanohablante de Discord, con una base de usuarios de más de 30 millones. Para mí, Kenabot es más que una simple herramienta; es una oportunidad para crear conexiones significativas y momentos especiales a través de la música.
 
 ## 📨 Redes Sociales
 
@@ -16,11 +18,11 @@ En resumen, combino mi experiencia en el desarrollo de software con mis diversas
 
 ## 🚀 Tecnologías
 
-HTML5, CSS3, SASS, SCSS, Styled-Components, Tailwind, PostCSS, Node.js, Deno, React, Preact, Next.js, React Native, Svelte, SvelteKit, Angular2+, AngularJS, Angular Universal, Redux, Redux Toolkit, Express.js, NestJS, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, Redis, Firebase, Supabase, Testing Library, Jest, Cypress, Karma, SuperTest, Eslint, JSLint, Prettier, Rome, WebSockets
+HTML5, CSS3, SASS/SCSS, Styled-Components, Tailwind, PostCSS, Node.js, Deno, React, Preact, Next.js, React Native, Svelte, SvelteKit, Angular, Angular Universal, Redux, Redux Toolkit, Express.js, NestJS, jQuery, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, Redis, Firebase, Supabase, WebSockets, Testing Library, Jest, Cypress, Karma, SuperTest, Eslint, JSLint, Prettier, Rome
 
 ## ⭐ Metodologías, Principios y Técnicas
 
-Agile, Scrum, Kanban, SOLID, CI/CD, POO, BEM, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios, ES6
+Agile, Scrum, Kanban, SOLID, CI/CD, POO, OOCSS, BEM, SMACSS, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios, ES6
 
 ## ⚙️ Herramientas
 
