@@ -16,17 +16,41 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tutitoos_00)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/397453373479190538)
 
-## 🚀 Tecnologías
+## 🚀 Lenguajes y frameworks
 
-HTML5, CSS3, SASS/SCSS, Styled-Components, Tailwind, PostCSS, Node.js, Deno, React, Preact, Next.js, React Native, Svelte, SvelteKit, Angular, Angular Universal, Redux, Redux Toolkit, Express.js, NestJS, jQuery, JavaScript, TypeScript, Python, Java, Kotlin, SpringBoot, JWT, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, Redis, Firebase, Supabase, WebSockets, Testing Library, Jest, Cypress, Karma, SuperTest, Eslint, JSLint, Prettier, Rome
+• JavaScript, TypeScript
+
+• React, React Native, Next.js, Angular, Svelte, SvelteKit
+
+• Node.js, Deno
+
+• Express.js, NestJS
+
+• CSS, Styled-Components, SASS/SCSS, Tailwind
+
+• Testing Library, Jest, Cypress
+
+• PostgreSQL, MongoDB, Redis, Firebase, Supabase
+
+• Redux, JWT, JQuery, PostCSS
 
 ## ⭐ Metodologías, Principios y Técnicas
 
-Agile, Scrum, Kanban, SOLID, CI/CD, POO, OOCSS, BEM, SMACSS, Clean Code, Pair Programming, TDD, E2E, Unit Test, Integration Test, API Rest, Microservicios, ES6
+• Agile, Scrum, Kanban, Clean Code, TDD, API Rest, Microservices, SOLID
+
+• Unit Test, Integration Test, E2E
+
+• POO, OOCSS, BEM, SMACSS
 
 ## ⚙️ Herramientas
 
-Notion, Trello, Git, GitHub, GitHub Actions, Figma, Postman, Insomnia, SonarCloud, SonarQube, Docker, Visual Studio, Visual Studio Code, JetBrains
+• Git, GitHub, GitHub Actions
+
+• SonarCloud, SonarQube
+
+• Notion, Trello, Figma
+
+• Visual Studio Code, JetBrains
 
 ---
 
