@@ -50,7 +50,7 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 • Notion, Trello, Figma
 
-• Visual Studio Code, JetBrains, Visual Studio, Rider, PyCharm, GoLand
+• Visual Studio Code, Visual Studio, WebStorm, Rider, PyCharm, GoLand
 
 ---
 
