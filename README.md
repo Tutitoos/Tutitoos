@@ -36,7 +36,7 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## ⭐ Metodologías, Principios y Técnicas
 
-• Agile, Scrum, Kanban, Clean Code, TDD, API Rest, Microservices, SOLID
+• Agile, Scrum, Kanban, Clean Code, TDD, API Rest, Microservices, SOLID, DDD
 
 • Unit Test, Integration Test, E2E
 
