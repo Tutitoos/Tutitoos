@@ -18,7 +18,7 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## 🚀 Lenguajes y frameworks
 
-• JavaScript, TypeScript, Python, Go
+• JavaScript, TypeScript, Python, Go, .NET
 
 • React, React Native, Next.js, Angular, Svelte, SvelteKit
 
