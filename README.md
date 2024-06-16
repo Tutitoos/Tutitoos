@@ -22,7 +22,7 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 • React, React Native, Next.js, Angular, Svelte, SvelteKit
 
-• Node.js, Deno
+• Node.js, Deno, Bun
 
 • Express.js, NestJS, Flask, .NET
 
@@ -30,9 +30,9 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 • Testing Library, Jest, Cypress
 
-• PostgreSQL, MongoDB, Redis, Firebase, Supabase
+• PostgreSQL, MongoDB, Redis, Firebase, Supabase, S3, R2
 
-• Redux, JWT, JQuery, PostCSS
+• Redux, Redux Toolkit, Zustand, JWT, JQuery, PostCSS, Formik
 
 ## ⭐ Metodologías, Principios y Técnicas
 
@@ -44,13 +44,17 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## ⚙️ Herramientas
 
-• Git, GitHub, GitHub Actions
+• Git, GitHub, GitHub Actions, Bitbucket, Azure DevOps, Docker Hub
 
 • SonarCloud, SonarQube
 
 • Notion, Trello, Figma
 
-• Visual Studio Code, Visual Studio, WebStorm, Rider, PyCharm, GoLand
+• Postman, Insomnia, Yaak
+
+• Dataflare, MongoDB Compass, DataGrip
+
+• Visual Studio Code, Visual Studio, WebStorm, Rider, PyCharm, GoLand, IntelliJ IDEA, Fleet
 
 ---
 
