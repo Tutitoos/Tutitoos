@@ -18,13 +18,16 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## ⭐ Main Stack
 
-### Stack Frontend
+### Frontend
 
 ![stack-frontend](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,sass,redux)
 
-### Stack Backend
+### Backend
 
-![stack-backend](https://skillicons.dev/icons?i=ts,cs,go,express,dotnet,postgresql,mongodb)
+![stack-backend-1](https://skillicons.dev/icons?i=ts,express)
+![stack-backend-2](https://skillicons.dev/icons?i=cs,dotnet)
+![stack-backend-3](https://skillicons.dev/icons?i=go)
+![stack-backend-4](https://skillicons.dev/icons?i=postgresql,mongodb)
 
 ## Other tools I use
 
@@ -32,7 +35,8 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 ![frameworks-frontend](https://skillicons.dev/icons?i=svelte)
 ![frameworks-backend](https://skillicons.dev/icons?i=nestjs)
 ![frameworks-styles](https://skillicons.dev/icons?i=css,tailwindcss)
-![libraries](https://skillicons.dev/icons?i=jest,cypress)
+![libraries-testing](https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&titles=true)
+![libraries-testing](https://skillicons.dev/icons?i=jest,cypress)
 
 ![databases](https://skillicons.dev/icons?i=supabase,firebase,redis)
 ![runtimes-and-package-managers](https://skillicons.dev/icons?i=nodejs,npm,pnpm,yarn)
@@ -40,9 +44,10 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 ## My tools
 
 ![ci/cd](https://skillicons.dev/icons?i=git,github,githubactions,docker)
-![tools](https://skillicons.dev/icons?i=postman,notion,figma)
+![tools](https://skillicons.dev/icons?i=postman,notion,figma,cloudflare)
 
 ![editors](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,rider,idea)
+![editors](https://go-skill-icons.vercel.app/api/icons?i=goland&titles=true)
 ![operating-system](https://skillicons.dev/icons?i=windows,mint)
 
 ## ⚡ Metodologías, Principios y Técnicas
