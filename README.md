@@ -10,7 +10,7 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## 📨 Redes Sociales
 
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosjob@gmail.com)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosjob@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillem-trave-font)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/intent/follow?screen_name=tutitoos)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
@@ -20,35 +20,27 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ### Frontend
 
-![stack-frontend](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,sass,redux)
+![](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,sass,redux)
 
 ### Backend
 
-![stack-backend-1](https://skillicons.dev/icons?i=ts,express)
-![stack-backend-2](https://skillicons.dev/icons?i=cs,dotnet)
-![stack-backend-3](https://skillicons.dev/icons?i=go)
-![stack-backend-4](https://skillicons.dev/icons?i=postgresql,mongodb)
+![](https://skillicons.dev/icons?i=ts,express,cs,dotnet,go,postgresql,mongodb)
 
 ## Other tools I use
 
-![languages](https://skillicons.dev/icons?i=js)
-![frameworks-frontend](https://skillicons.dev/icons?i=svelte)
-![frameworks-backend](https://skillicons.dev/icons?i=nestjs)
-![frameworks-styles](https://skillicons.dev/icons?i=css,tailwindcss)
-![libraries-testing](https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&titles=true)
-![libraries-testing](https://skillicons.dev/icons?i=jest,cypress)
+![](https://skillicons.dev/icons?i=js,svelte,nestjs,css,tailwindcss)
+![](https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&titles=true)
+![](https://skillicons.dev/icons?i=jest,cypress)
 
-![databases](https://skillicons.dev/icons?i=supabase,firebase,redis)
-![runtimes-and-package-managers](https://skillicons.dev/icons?i=nodejs,npm,pnpm,yarn)
+![](https://skillicons.dev/icons?i=supabase,firebase,redis,nodejs,npm,pnpm,yarn)
 
 ## My tools
 
-![ci/cd](https://skillicons.dev/icons?i=git,github,githubactions,docker)
-![tools](https://skillicons.dev/icons?i=postman,notion,figma,cloudflare)
+![](https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,notion,figma,cloudflare)
 
-![editors](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,rider,idea)
-![editors](https://go-skill-icons.vercel.app/api/icons?i=goland&titles=true)
-![operating-system](https://skillicons.dev/icons?i=windows,mint)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,rider,idea)
+![](https://go-skill-icons.vercel.app/api/icons?i=goland&titles=true)
+![](https://skillicons.dev/icons?i=windows,mint)
 
 ## ⚡ Metodologías, Principios y Técnicas
 
