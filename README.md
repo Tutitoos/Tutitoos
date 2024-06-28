@@ -10,54 +10,49 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## 📨 Redes Sociales
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tutitoosjob@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillem-trave-font)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tutitoos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tutitoos_00)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/397453373479190538)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosjob@gmail.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillem-trave-font)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/intent/follow?screen_name=tutitoos)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/397453373479190538)
 
-## 🚀 Lenguajes y frameworks
+## ⭐ Main Stack
 
-• JavaScript, TypeScript, Python, Go, C#
+### Stack Frontend
 
-• React, React Native, Next.js, Angular, Svelte, SvelteKit
+![stack-frontend](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,sass,redux)
 
-• Node.js, Deno, Bun
+### Stack Backend
 
-• Express.js, NestJS, Flask, .NET
+![stack-backend](https://skillicons.dev/icons?i=ts,cs,go,express,dotnet,postgresql,mongodb)
 
-• CSS, Styled-Components, SASS/SCSS, Tailwind
+## Other tools I use
 
-• Testing Library, Jest, Cypress
+![languages](https://skillicons.dev/icons?i=js)
+![frameworks-frontend](https://skillicons.dev/icons?i=svelte)
+![frameworks-backend](https://skillicons.dev/icons?i=nestjs)
+![frameworks-styles](https://skillicons.dev/icons?i=css,tailwindcss)
+![libraries](https://skillicons.dev/icons?i=jest,cypress)
 
-• PostgreSQL, MongoDB, Redis, Firebase, Supabase, S3, R2
+![databases](https://skillicons.dev/icons?i=supabase,firebase,redis)
+![runtimes-and-package-managers](https://skillicons.dev/icons?i=nodejs,npm,pnpm,yarn)
 
-• Redux, Redux Toolkit, Zustand, JWT, JQuery, PostCSS, Formik
+## My tools
 
-## ⭐ Metodologías, Principios y Técnicas
+![ci/cd](https://skillicons.dev/icons?i=git,github,githubactions,docker)
+![tools](https://skillicons.dev/icons?i=postman,notion,figma)
+
+![editors](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,rider,idea)
+![operating-system](https://skillicons.dev/icons?i=windows,mint)
+
+## ⚡ Metodologías, Principios y Técnicas
 
 • Agile, Scrum, Kanban, Clean Code, TDD, API Rest, MicroServices, SOLID, DDD
 
 • Unit Test, Integration Test, E2E
 
-• POO, OOCSS, BEM, SMACSS
-
-## ⚙️ Herramientas
-
-• Git, GitHub, GitHub Actions, Bitbucket, Azure DevOps, Docker Hub
-
-• SonarCloud, SonarQube
-
-• Notion, Trello, Figma
-
-• Postman, Insomnia, Yaak
-
-• Dataflare, MongoDB Compass, DataGrip
-
-• Visual Studio Code, Visual Studio, WebStorm, Rider, PyCharm, GoLand, IntelliJ IDEA, Fleet
+• OOP, OOCSS, BEM, SMACSS
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20utilizados)
-
-![](https://github-readme-stats.vercel.app/api?username=tutitoos&count_private=true&include_all_commits=true&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&hide_progress=true&bg_color=1a1c1f&border_radius=10&custom_title=Most%20Used%20Languages)
