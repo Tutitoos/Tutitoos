@@ -1,12 +1,12 @@
-## Acerca de
+## About me
 
-👋 Mi nombre es Guillem, un apasionado desarrollador Full Stack que ha estado inmerso en el mundo de la informática desde 2010.
+👋 My name is Guillem, a passionate Full Stack developer who has been immersed in the world of computer science since 2010.
 
-A lo largo de mi carrera, he tenido la oportunidad de trabajar con una diversidad de tecnologías y plataformas. Entre 2019 y 2020, completé un curso de Auxiliar de Sistemas Microinformáticos, lo que me permitió iniciar mi propio negocio centrado en la reparación de ordenadores y dispositivos móviles.
+Throughout my career, I've had the opportunity to work with a variety of technologies and platforms. Between 2019 and 2020, I completed a course in Microcomputer Systems Support, which allowed me to start my own business focused on computer and mobile device repairs.
 
-Desde 2021, he estado trabajando como freelancer, abordando una amplia gama de proyectos que abarcan desde el desarrollo de sitios web, aplicaciones móviles, API Rest y Microservicios y más. También he liderado algunos equipos.
+Since 2021, I have been working as a freelancer, tackling a wide range of projects including website development, mobile applications, REST APIs, Microservices, and more. I have also led some teams.
 
-Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad hispanohablante de Discord con más de 19 millones de usuarios. Como propietario y Tech Lead, gestiono el desarrollo y la colaboración del equipo utilizando microservicios en Go, microfrontends en Next.js, Docker, GitHub, Notion, Figma y metodologías ágiles como Kanban.
+That same year, I co-founded KenaBot, the largest music bot in the Spanish-speaking Discord community with over 19 million users. As owner and Tech Lead, I manage team development and collaboration using microservices in Go, microfrontends in Next.js, Docker, GitHub, Notion, Figma, and agile methodologies like Kanban.
 
 ## 📨 Redes Sociales
 
