@@ -42,13 +42,13 @@ Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad
 ![](https://go-skill-icons.vercel.app/api/icons?i=goland&titles=true)
 ![](https://skillicons.dev/icons?i=windows,mint)
 
-## ⚡ Metodologías, Principios y Técnicas
+## ⚡ Methodologies, Principles, and Techniques
 
-- **Metodologías:** Agile, Scrum, Kanban
-- **Principios:** Clean Code, SOLID, DDD, TDD, KISS
-- **Técnicas:** API Rest, MicroServices, CI/CD, VCS
-- **Pruebas:** Unit Test, Integration Test, E2E
-- **Programación Orientada a Objetos y CSS:** OOP, OOCSS, BEM, SMACSS
+- **Methodologies:** Agile, Scrum, Kanban
+- **Principles:** Clean Code, SOLID, DDD, TDD, KISS
+- **Techniques:** API Rest, MicroServices, CI/CD, VCS
+- **Testing:** Unit Test, Integration Test, E2E
+- **Object-Oriented Programming and CSS:** OOP, OOCSS, BEM, SMACSS
 
 ---
 
