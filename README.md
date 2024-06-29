@@ -8,7 +8,7 @@ Since 2021, I have been working as a freelancer, tackling a wide range of projec
 
 That same year, I co-founded KenaBot, the largest music bot in the Spanish-speaking Discord community with over 19 million users. As owner and Tech Lead, I manage team development and collaboration using microservices in Go, microfrontends in Next.js, Docker, GitHub, Notion, Figma, and agile methodologies like Kanban.
 
-## 📨 Redes Sociales
+## 📨 Social Media
 
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosdev@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillem-trave-font)
