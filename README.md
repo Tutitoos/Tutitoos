@@ -10,7 +10,7 @@ Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad
 
 ## 📨 Redes Sociales
 
-[![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosjob@gmail.com)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosdev@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillem-trave-font)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/intent/follow?screen_name=tutitoos)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
