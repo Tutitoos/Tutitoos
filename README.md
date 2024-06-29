@@ -6,7 +6,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar con una diversida
 
 Desde 2021, he estado trabajando como freelancer, abordando una amplia gama de proyectos que abarcan desde el desarrollo de sitios web, aplicaciones móviles, API Rest y Microservicios y más. También he liderado algunos equipos.
 
-Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido hasta convertirse en el bot de música más grande en la comunidad hispanohablante de Discord, con una base de usuarios de más de 30 millones. Para mí, Kenabot es más que una simple herramienta; es una oportunidad para crear conexiones significativas y momentos especiales a través de la música.
+Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad hispanohablante de Discord con más de 19 millones de usuarios. Como propietario y Tech Lead, gestiono el desarrollo y la colaboración del equipo utilizando microservicios en Go, microfrontends en Next.js, Docker, GitHub, Notion, Figma y metodologías ágiles como Kanban.
 
 ## 📨 Redes Sociales
 
@@ -44,11 +44,11 @@ Ese mismo año, co-fundé Kenabot, un bot de música para Discord que ha crecido
 
 ## ⚡ Metodologías, Principios y Técnicas
 
-• Agile, Scrum, Kanban, Clean Code, TDD, API Rest, MicroServices, SOLID, DDD
-
-• Unit Test, Integration Test, E2E
-
-• OOP, OOCSS, BEM, SMACSS
+- **Metodologías:** Agile, Scrum, Kanban
+- **Principios:** Clean Code, SOLID, DDD, TDD, KISS
+- **Técnicas:** API Rest, MicroServices, CI/CD, VCS
+- **Pruebas:** Unit Test, Integration Test, E2E
+- **Programación Orientada a Objetos y CSS:** OOP, OOCSS, BEM, SMACSS
 
 ---
 
