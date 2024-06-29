@@ -26,7 +26,7 @@ Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad
 
 ![](https://skillicons.dev/icons?i=ts,express,cs,dotnet,go,postgresql,mongodb)
 
-## Other tools I use
+## ⚙️ Other tools I use
 
 ![](https://skillicons.dev/icons?i=js,svelte,nestjs,css,tailwindcss)
 ![](https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&titles=true)
@@ -34,7 +34,7 @@ Ese mismo año, co-fundé KenaBot, el bot de música más grande en la comunidad
 
 ![](https://skillicons.dev/icons?i=supabase,firebase,redis,nodejs,npm,pnpm,yarn)
 
-## My tools
+## 🧰 My tools
 
 ![](https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,notion,figma,cloudflare)
 
