@@ -1,16 +1,16 @@
 ## About me
 
-👋 My name is Guillem, a passionate Full Stack developer who has been immersed in the world of computer science since 2010.
+👋 Me llamo Guillem, soy un apasionado desarrollador Full Stack que ha estado inmerso en el mundo de la informática desde 2010.
 
-Throughout my career, I've had the opportunity to work with a variety of technologies and platforms. Between 2019 and 2020, I completed a course in Microcomputer Systems Support, which allowed me to start my own business focused on computer and mobile device repairs.
+A lo largo de mi carrera, he tenido la oportunidad de trabajar con una variedad de tecnologías y plataformas. Entre 2019 y 2020, completé un curso de Soporte de Sistemas Microinformáticos, lo que me permitió iniciar mi propio negocio enfocado en la reparación de computadoras y dispositivos móviles.
 
-Since 2021, I have been working as a freelancer, tackling a wide range of projects including website development, mobile applications, REST APIs, Microservices, and more. I have also led some teams.
+Desde 2021, he estado trabajando como freelancer, abordando una amplia gama de proyectos que incluyen desarrollo de sitios web, aplicaciones móviles, APIs REST, microservicios, y más. También he liderado algunos equipos.
 
-That same year, I co-founded KenaBot, the largest music bot in the Spanish-speaking Discord community with over 19 million users. As owner and Tech Lead, I manage team development and collaboration using microservices in Go, microfrontends in Next.js, Docker, GitHub, Notion, Figma, and agile methodologies like Kanban.
+Ese mismo año, cofundé KenaBot, el bot de música más grande en la comunidad de habla hispana en Discord con más de 19 millones de usuarios. Como propietario y líder técnico, gestiono el desarrollo del equipo y la colaboración utilizando microservicios en Go, microfrontends en Next.js, Docker, GitHub, Notion, Figma y metodologías ágiles como Kanban.
 
 ## 📨 Social Media
 
-[![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosdev@gmail.com)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:tutitoosjob@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillem-trave-font)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/intent/follow?screen_name=tutitoos)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
