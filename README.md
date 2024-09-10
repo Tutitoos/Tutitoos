@@ -16,39 +16,29 @@ Ese mismo año, cofundé KenaBot, el bot de música más grande en la comunidad 
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/397453373479190538)
 
-## ⭐ Main Stack
+## ⭐ Stack Prinicpal
 
-### Frontend
+- Frontend: React, Next.js, Tailwindcss, Sass, Redux
+- Backend: JavaScript, TypeScript, Express.js, C#, .NET, Go, PostgreSQL, MongoDB
 
-![](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,sass,redux)
+## ⚙️Otras herramientas:
 
-### Backend
+Svelte, NestJS, CSS, Styled-Components, Testing Library, Jest, Cypress
+Supabase, Firebase, Redis, Node.js, NPM, PNPM, YARN
 
-![](https://skillicons.dev/icons?i=ts,express,cs,dotnet,go,postgresql,mongodb)
+## 🧰 Mis herramientas:
 
-## ⚙️ Other tools I use
+Git, GitHub, GitHub Actions, Docker, Postman, Notion, Figma, Cloudflare
+Visual Studio Code, Visual Studio, Webstorm, Rider, IntelliJ IDEA, Goland
+Windows, Linux
 
-![](https://skillicons.dev/icons?i=js,svelte,nestjs,css,tailwindcss)
-![](https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&titles=true)
-![](https://skillicons.dev/icons?i=jest,cypress)
+## ⚡Metodologías, Principios y Técnicas:
 
-![](https://skillicons.dev/icons?i=supabase,firebase,redis,nodejs,npm,pnpm,yarn)
-
-## 🧰 My tools
-
-![](https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,notion,figma,cloudflare)
-
-![](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,rider,idea)
-![](https://go-skill-icons.vercel.app/api/icons?i=goland&titles=true)
-![](https://skillicons.dev/icons?i=windows,mint)
-
-## ⚡ Methodologies, Principles, and Techniques
-
-- **Methodologies:** Agile, Scrum, Kanban
-- **Principles:** Clean Code, SOLID, DDD, TDD, KISS
-- **Techniques:** API Rest, MicroServices, CI/CD, VCS
-- **Testing:** Unit Test, Integration Test, E2E
-- **Object-Oriented Programming and CSS:** OOP, OOCSS, BEM, SMACSS
+- Methodologies: Agile, Scrum, Kanban
+- Principles: Clean Code, SOLID, DDD, TDD, KISS
+- Techniques: API Rest, MicroServices, CI/CD, VCS
+- Testing: Unit Test, Integration Test, E2E
+- Object-Oriented Programming and CSS: OOP, OOCSS, BEM, SMACSS
 
 ---
 
