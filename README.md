@@ -19,11 +19,11 @@ Ese mismo año, cofundé KenaBot, el bot de música más grande en la comunidad 
 ## ⭐ Stack Prinicpal
 
 - Frontend: React, Next.js, Tailwindcss, Sass, Redux
-- Backend: JavaScript, TypeScript, Express.js, C#, .NET, Go, PostgreSQL, MongoDB
+- Backend: JavaScript, TypeScript, Express.js, C#, .NET, Go, PostgreSQL, MongoDB, Docker
 
 ## ⚙️Otras herramientas:
 
-Svelte, NestJS, CSS, Styled-Components, Testing Library, Jest, Cypress
+Svelte, NestJS, CSS, Styled-Components, Testing Library, Jest, Cypress,
 Supabase, Firebase, Redis, Node.js, NPM, PNPM, YARN
 
 ## 🧰 Mis herramientas:
