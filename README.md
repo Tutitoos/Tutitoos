@@ -5,29 +5,25 @@
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/397453373479190538)
 
 ## ⭐ Stack Prinicpal
-
-- Frontend: React, Next.js, Tailwindcss, Sass, Redux
-- Backend: JavaScript, TypeScript, Express.js, Node.js, C#, .NET, Go, PostgreSQL, MongoDB, Docker
+- Backend: Go, JavaScript, TypeScript, Express.js, C#, .NET, PostgreSQL, MongoDB, Docker 
+- Frontend (conocimientos complementarios): React, Next.js 
 
 ## ⚙️Otras herramientas:
 
-Svelte, NestJS, CSS, Styled-Components, Testing Library, Jest, Cypress,
-Supabase, Firebase, Redis, Node.js, NPM, PNPM, YARN
+Supabase, Firebase, Redis, Node.js, NestJS, Testing Library, Jest, Cypress 
 
 ## 🧰 Mis herramientas:
 
-Git, GitHub, GitHub Actions, Docker, Postman, Notion, Figma, Cloudflare
-Visual Studio Code, Visual Studio, Webstorm, Rider, IntelliJ IDEA, Goland
-Windows, Linux
+Git, GitHub, GitHub Actions, Docker, Postman, Notion, Figma, Cloudflare 
+IDE: Visual Studio Code, Rider, IntelliJ IDEA, Goland 
+OS: Windows, Linux 
 
 ## ⚡Metodologías, Principios y Técnicas:
 
-- Methodologies: Agile, Scrum, Kanban
-- Principles: Clean Code, SOLID, DDD, TDD, KISS
-- Techniques: API Rest, MicroServices, CI/CD, VCS
-- Testing: Unit Test, Integration Test, E2E
-- Object-Oriented Programming and CSS: OOP, OOCSS, BEM, SMACSS
-
+- Metodologías: Agile, Scrum, Kanban 
+- Principios: Clean Code, SOLID, DDD, TDD, KISS 
+- Técnicas: APIs REST, Microservicios, CI/CD, Testing Unitario, Integración y E2E
+  
 ---
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&hide_progress=true&bg_color=1a1c1f&border_radius=10&custom_title=Most%20Used%20Languages)
