@@ -26,4 +26,4 @@ OS: Windows, Linux
   
 ---
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&hide_progress=true&bg_color=1a1c1f&border_radius=10&custom_title=Most%20Used%20Languages)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tutitoos&layout=compact&theme=dark&hide_border=true&hide_progress=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20más%20utilizados)
