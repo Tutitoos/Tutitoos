@@ -7,7 +7,7 @@
 ## ⭐ Stack Prinicpal
 
 - Frontend: React, Next.js, Tailwindcss, Sass, Redux
-- Backend: JavaScript, TypeScript, Express.js, C#, .NET, Go, PostgreSQL, MongoDB, Docker
+- Backend: JavaScript, TypeScript, Express.js, Node.js, C#, .NET, Go, PostgreSQL, MongoDB, Docker
 
 ## ⚙️Otras herramientas:
 
