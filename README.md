@@ -1,4 +1,4 @@
-## 📨 Social Media
+## 📨 Redes Sociales
 
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/intent/follow?screen_name=tutitoos)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tutitoos_00)
