@@ -8,51 +8,22 @@
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+## ⚙️ Stack Tecnológico
 
-### 💻 Lenguajes
-- Go, JavaScript, TypeScript, C#, Java, Kotlin, Python
+- 💻 **Lenguajes**: Go, TypeScript, C#, Java, Kotlin, Python  
+- 📊 **Bases de Datos**: PostgreSQL, MongoDB, MySQL, Redis, Supabase, Firebase  
+- 🧩 **Frameworks & Librerías**: Node.js, Express.js, React, Next.js, React Native, .NET  
+- 🧪 **Testing**: Jest, Testing Library, Cypress  
+- 🧹 **Calidad de Código**: ESLint, Prettier, SonarQube  
+- 🚀 **DevOps & CI/CD**: Docker, GitHub Actions, Cloudflare  
+- 🛠️ **Productividad**: Notion, Postman, Figma  
+- 🔄 **Control de Versiones**: Git, GitHub  
 
-### 📊 Bases de Datos
-- PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Redis
+## ⚡ Metodologías & Principios
 
-### 🧩 Frameworks & Librerías
-- Express.js, Node.js, React, Next.js, React Native, .NET
-
-### 🧪 Testing
-- Testing Library, Jest, Cypress
-
-🧹 Herramientas de Calidad de Código
-- ESLint, Prettier, SonarQube
-
-### 🚀 DevOps & CI/CD
-- Docker, GitHub Actions, Cloudflare
-
-### 📈 Productividad & Colaboración
-- Notion, Postman, Figma
-
-### 🔄 Control de Versiones
-- Git, GitHub
-
----
-
-## 🧰 Entorno de Desarrollo
-
-### 🛠 IDEs
-- Visual Studio Code, Rider, IntelliJ IDEA, GoLand
-
----
-
-## ⚡ Metodologías, Principios y Técnicas
-
-### 🔄 Metodologías
-- Agile, Scrum, Kanban
-
-### 🎯 Principios
-- Clean Code, SOLID, DDD, TDD, KISS
-
-### 🛠 Técnicas
-- APIs REST, Microservicios, CI/CD, Testing Unitario, Integración y E2E
+- 🔄 **Metodologías**: Scrum, Kanban, Agile  
+- 🎯 **Principios**: SOLID, Clean Code, DDD, TDD, KISS  
+- 🧱 **Técnicas**: APIs REST, Microservicios, CI/CD, Testing Unitario, Integración, E2E  
 
 ---
 
